@@ -20,7 +20,6 @@
 }
 
 body {
-    height: 100vh;
     padding: 2rem;
     background-image: url(/assets/fondo1.jpg);
     background-size:cover;
