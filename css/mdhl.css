@@ -55,6 +55,7 @@ header {
     width: 8%;
     margin: 1rem;
     transform: translate(0.5rem, 1.2rem);
+    cursor: none;
     
 }
 
@@ -248,7 +249,13 @@ section {
     width: 100%;
 }
 
-
+/*------------------form------------------------*/
+.form__container{
+ border: var(--bg1) solid 2px;
+ border-radius: 0.25rem;
+ margin: 0.5rem;
+ padding: 0.5rem;
+}
 
 aside {
     width: 30%;
