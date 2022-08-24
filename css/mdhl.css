@@ -226,7 +226,6 @@ thead th:nth-child(4) {
 th,
 td {
     font-size: 0.8rem;
-    border: var(--bg1) solid 2px;
     padding: 0.2rem;
     text-align: center;
 }
